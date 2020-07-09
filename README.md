@@ -1,7 +1,7 @@
 # R-Programming-Assigment-Week-4
-his repo was created for the assigmnet due during week 4 of the Getting and Cleaning Data Coursera course.
+This repo was created for the assignment due during week 4 of the Getting and Cleaning Data Coursera course.
 
-The isntructions involved the following - 
+The instructions involved the following - 
 1. First, download and unzip the data file into your R working directory.
 2. Second, download the R source code into your R working directory.
 3. Finally, execute R source code to generate tidy data file.
